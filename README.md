@@ -1,7 +1,5 @@
 # Ecommerce-Backend
 This is to build Ecommerce-Backend.
-# Table of Contents
-
 # Table of Content:
 
 
