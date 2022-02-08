@@ -34,5 +34,4 @@ Open to suggestions on new features.
 
 # Contact
 * Github :KARMJEETNAMOL
-* Linkedin :https://www.linkedin.com/
 * E-mail :karmnamol@gmail.com
